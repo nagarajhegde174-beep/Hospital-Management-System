@@ -1,6 +1,6 @@
 # Hospital Management System 
 
-A full-stack hospital appointment management platform built with a Spring Boot microservices backend and an Angular frontend.
+A full-stack hospital management platform built with a Spring Boot microservices backend and an Angular frontend.
 
 ## Repository Layout
 
